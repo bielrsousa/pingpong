@@ -41,9 +41,4 @@ Este projeto foi construído utilizando conceitos fundamentais de Engenharia de 
 - [ ] Sistema de partículas para faíscas neon no impacto.
 - [ ] Ranking local de maiores pontuações (LocalStorage).
 
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-Desenvolvido por [Seu Nome ou Usuário do GitHub] 🚀
+Desenvolvido por @Bielrsousa 🚀
